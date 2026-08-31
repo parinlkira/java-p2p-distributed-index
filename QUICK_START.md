@@ -3,7 +3,7 @@
 ## Run the Demo in 3 Commands
 
 ```bash
-cd /Users/parindalwadi/Desktop/github/p2p-distributed-system
+cd java-p2p-distributed-index
 ./compile.sh
 ./run.sh
 ```

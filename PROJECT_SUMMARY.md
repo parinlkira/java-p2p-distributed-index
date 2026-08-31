@@ -149,7 +149,7 @@ p2p-distributed-system/
 ## 🚀 How to Run
 
 ```bash
-cd /Users/parindalwadi/Desktop/github/p2p-distributed-system
+cd java-p2p-distributed-index
 ./compile.sh
 ./run.sh
 ```
@@ -216,6 +216,6 @@ cd /Users/parindalwadi/Desktop/github/p2p-distributed-system
 
 **Status**: ✅ **COMPLETE AND TESTED**
 
-**Location**: `/Users/parindalwadi/Desktop/github/p2p-distributed-system`
+**Location**: Project repository root
 
 **Ready to Run**: Yes - Execute `./compile.sh && ./run.sh`

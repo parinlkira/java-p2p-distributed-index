@@ -83,7 +83,7 @@ The Java compiler is the source of truth, and it confirms the code is **100% cle
 
 ### Quick Start
 ```bash
-cd /Users/parindalwadi/Desktop/github/p2p-distributed-system
+cd java-p2p-distributed-index
 ./compile.sh
 ./run.sh
 ```
